@@ -11,7 +11,7 @@ yarn-error.log*
 
 # compiled files
 #
-/dist/
+/compiled/
 
 # VIM
 #
